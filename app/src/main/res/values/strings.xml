@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyImageApp</string>
+    <string name="check_internet_connection">Check your internet connection</string>
+    <string name="list_of_dog">List of Dogs</string>
+</resources>
