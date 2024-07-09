@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity(), OnItemClickListener {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         val db = BreedDatabase.getDatabase(this)!!
