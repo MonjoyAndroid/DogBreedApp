@@ -1,0 +1,1 @@
+This app is an android application fetching data of dog breed as a list from url and after selecting any dog bread it will call another api to show the dog breed image into UI. Here MVVM architechture is used with room database.Used Alert dialog to show alert message and snack bar to show some toast message, which have some action button.
